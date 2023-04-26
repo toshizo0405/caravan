@@ -35,7 +35,9 @@ header .heading{
 .main-visual{
   width: 100%;
   height: 300px;
-
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .main-visual-content{
